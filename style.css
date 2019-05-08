@@ -1,0 +1,249 @@
+*{margin:0px; padding:0px; outline:0px;}
+
+
+.templete {width:980px; margin:0 auto;}
+.clear{overflow:hidden;}
+
+body {
+    font-family:arial; 
+    font-size:14px;
+	margin:o auto;
+	background:url(img/food.png)repeat fixed 0 0 #fff; position:relative;
+}
+.header {
+	background-color: rgba(57, 240, 234, 0.48);
+	width: 980px;
+	height: 100px;
+}
+.logoimg_section {
+	float: left;
+	width: 135px;
+	height: 100px;
+}
+.headername_section {
+	float: right;
+	width: 845px;
+	line-height: 78px;
+}
+.headername_section h2 {
+	text-align: center;
+	font-size: 42px;
+	font-family: Moonstar;
+	line-height: 100px;
+	color: #0e82f5;
+}
+.Navsection{
+}
+.Navsection ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: green;
+}
+
+.Navsection li{
+	float: left;
+}
+.Navsection ul li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.Navsection ul li a:hover {
+	background-color: #111111;
+	border-radius: 41px;
+}
+.slider {
+	background-color: RGBA(214, 214, 214, 0.42);
+	border-radius: 9px;
+	font-size: 21px;
+	font-style: italic;
+	font-family: cursive;
+}
+.container {
+	height: 558px;
+	background: rgba(187, 206, 170, 0.78) none repeat scroll 0% 0%;
+	margin-top: 4px;
+}
+.leftcontent {
+	float: left;
+	width: 234px;
+	background: antiquewhite;
+	border-top: 1px solid RGBA(209, 17, 17, 0.8);
+	border-right: 1px solid RGBA(209, 17, 17, 0.8);
+	border-bottom: 1px solid RGBA(209, 17, 17, 0.8);
+	margin-right: 5px;
+	height: 551px;
+}
+.table {
+	width: 227px;
+	height: 218px;
+	background: antiquewhite;
+	border-radius: 221px;
+	margin: 5px 3px;
+}
+.table ul li {
+	float:left;
+	list-style:none;
+	font-size:18px;
+	margin:5px 7px;
+	margin-top:8px;
+	}
+.table ul li a {
+	margin: 12px 12px;
+	text-decoration: none;
+	margin-left: 0px;
+}
+.static-link-div{
+    float: left;
+    border: 1px solid #B0BAA6;
+    width: 213px;
+    border-radius:5px 5px 5px 5px;
+    margin: 5px 5px;
+}
+
+.static-link-div img{
+    float: left;
+    width: 35px;
+    height:35px;
+    margin: 4px 4px 4px 4px;
+}
+
+.static-link-name{
+   margin: 12px 0px 0px 8px;
+   font-weight: bold;
+   font-size: 15px;
+}
+.centercontent {
+	float: left;
+	width: 485px;
+	height: 554px;
+	background: RGBA(102, 21, 189, 0.61);
+	border-radius: 33px 12px;
+}
+.centercontent h1 {
+	text-align: center;
+	color: white;
+	background: #d58213;
+	border-radius: 70px 1px;
+}
+.centercontent p {
+	font-size: 16px;
+	font-family: arial;
+	text-align: center;
+	color: white;
+}
+.centerimg {
+	width: 475px;
+	height: 298px;
+	background: white;
+	margin-left: 5px;
+	margin-top: 12px;
+	border-radius: 14px;
+}
+.rightcontent {
+	float: right;
+	width: 250px;
+	margin-left: 5px;
+}
+.right_table {
+	height: 195px;
+	background: rgba(228, 143, 33, 0.83);
+	border-radius: 16px 40px;
+}
+.right_table h4 {
+	color: white;
+	font-size: 21px;
+	text-align: center;
+	background: black;
+	border-radius: 10px 143px;
+	padding: 5px;
+}
+.right_table ul {
+	line-height: 23px;
+	text-align: center;
+}
+.right_table ul li {
+	list-style: none;
+	font-size: 16px;
+}
+.right_table ul li a {
+	text-decoration: none;
+	margin-left: -42px;
+}
+
+
+.right_table1 {
+	height: 196px;
+	background: rgba(105, 86, 33, 0.19);
+	margin-top: 5px;
+	border-radius: 40px 16px;
+}
+.right_table1 h4 {
+	color: white;
+	font-size: 21px;
+	text-align: center;
+	margin-top: 0px;
+	background: black;
+	border-radius: 33px 1px;
+	padding: 5px;
+}
+.right_table1 ul {
+	line-height: 23px;
+	text-align: center;
+}
+.right_table1 ul li {
+	list-style: none;
+	font-size: 16px;
+}
+.right_table1 ul li a {
+	text-decoration: none;
+	margin-left: -42px;
+}
+
+
+.right_table2 {
+	background: rgba(132, 1, 200, 0.25);
+	margin-top: 5px;
+	border-radius: 8px 40px;
+	height: 152px;
+}
+.right_table2 h4 {
+	color: white;
+	font-size: 21px;
+	text-align: center;
+	margin-top: 0px;
+	background: black;
+	border-radius: 9px 142px;
+	padding: 5px;
+}
+.right_table2 ul {
+	line-height: 23px;
+	text-align: center;
+}
+.right_table2 ul li {
+	list-style: none;
+	font-size: 16px;
+}
+.right_table2 ul li a {
+	text-decoration: none;
+	margin-left: -42px;
+
+}
+
+
+
+
+.footer {
+	height: 27px;
+	background-color: aquamarine;
+}
+.footer p {
+	text-align: center;
+	font-size: 17px;
+}
+.fixedicon { position: fixed; left:10px; top:175px; width: 60px;}
+.fixedicon img{ width: 55px;}
